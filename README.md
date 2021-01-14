@@ -1,1 +1,4 @@
-# mcanolcay
+GEO468E PERSONAL HOMEWORK
+
+Mehmet Can Olçay 010160629
+![ITU]()
