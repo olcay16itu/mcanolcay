@@ -20,4 +20,15 @@ Sentinel 2 2018 Image ( Offline Image ) : https://scihub.copernicus.eu/dhus/odat
 
 # Workflow
 
-Firstly , sentinel 2 images
+Firstly , sentinel 2 images was downloaded from COPERNICUS.Then , opened in SNAP and used bands in project which determined on Data types exported.After,these exports was used in codes and output images used for analysis of water bodies and vegetation bodies.
+
+# Which libraries used for this project ? 
+
+Libraries added from coda software.
+
+-rasterio
+
+-matplotlib
+
+-numpy
+
