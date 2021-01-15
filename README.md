@@ -38,7 +38,7 @@ The normalized difference vegetation index (NDVI) is basically the ratio of radi
 
 # NDVI OUTPUTS
 
-# NDVI 2016
+# NDVI 2018
 
 ![](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndvi2018.PNG)
 
