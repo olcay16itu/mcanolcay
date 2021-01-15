@@ -45,3 +45,22 @@ The normalized difference vegetation index (NDVI) is basically the ratio of radi
 # NDVI 2020
 
 ![](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndvi2020.PNG)
+
+Grey area represent vegetation.
+
+# What is NDWI ?
+
+The Normalized Difference Water Index (NDWI) is a remote sensing derived index detect to water bodies.
+
+![NDWI FORMULA](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndwi%20formula.png)
+
+# NDWI OUTPUT
+
+![](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndwi.PNG)
+
+Grey area represent water bodies.
+
+# References :
+
+https://towardsdatascience.com/monitoring-wildfires-using-earth-observation-satellites-e3ee7113bae4
+https://en.wikipedia.org/wiki/Normalized_difference_water_index
