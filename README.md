@@ -20,7 +20,7 @@ Sentinel 2 2018 Image ( Offline Image ) : https://scihub.copernicus.eu/dhus/odat
 
 # Workflow
 
-Firstly , sentinel 2 images was downloaded from COPERNICUS.Then , opened in SNAP and used bands in project which determined on Data types exported.After,these exports was used in codes and output images used for analysis of water bodies and vegetation bodies.
+Firstly , sentinel 2 images was downloaded from COPERNICUS . Then , images opened in SNAP also subsetted and used bands in project which determined on data types exported.After,these exports was used in codes and output images used for analysis of water bodies and vegetation bodies.
 
 # Which libraries used for this project ? 
 
@@ -64,3 +64,4 @@ Grey area represent water bodies.
 
 https://towardsdatascience.com/monitoring-wildfires-using-earth-observation-satellites-e3ee7113bae4
 https://en.wikipedia.org/wiki/Normalized_difference_water_index
+https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index#:~:text=The%20normalized%20difference%20vegetation%20index,observed%20contains%20live%20green%20vegetation.
