@@ -16,7 +16,8 @@ Sentinel 2 images was used.Band3(GREEN) , band4(RED) and band8(NIR) used for pro
 
 Sentinel 2 2020 Image : https://scihub.copernicus.eu/dhus/odata/v1/Products('5312f8e1-a70b-4597-9c2a-07be1b28c9bd
 
-Sentinel 2 2018 Image : https://scihub.copernicus.eu/dhus/odata/v1/Products('b0cc39b4-c94a-4f7c-bd37-4f97b7d49cee')/$value
+Sentinel 2 2018 Image ( Offline Image ) : https://scihub.copernicus.eu/dhus/odata/v1/Products('b0cc39b4-c94a-4f7c-bd37-4f97b7d49cee')/$value
+
 # Workflow
 
 Firstly , sentinel 2 images
