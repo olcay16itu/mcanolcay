@@ -30,3 +30,18 @@ Libraries added from coda software.
 - matplotlib
 - numpy
 
+# What is NDVI ?
+
+The normalized difference vegetation index (NDVI) is basically the ratio of radiation reflected from healthy vegetation to radiation reflected from all other sources and is calculated for the pixel in the image is marked.
+
+![NDVI FORMULA](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndvi-formula.jpg)
+
+# NDVI OUTPUTS
+
+# NDVI 2016
+
+![](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndvi2018.PNG)
+
+# NDVI 2020
+
+![](https://github.com/olcay16itu/mcanolcay/blob/main/Readme%20images/ndvi2020.PNG)
