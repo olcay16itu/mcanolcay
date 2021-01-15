@@ -26,7 +26,7 @@ Firstly , sentinel 2 images was downloaded from COPERNICUS.Then , opened in SNAP
 
 Libraries added from coda software.
 
--rasterio
--matplotlib
--numpy
+- rasterio
+- matplotlib
+- numpy
 
